@@ -23,12 +23,20 @@ A MySQL-based relational database project for managing:
 - phpMyAdmin
 - MySQL Workbench
 
-## Future Improvements
+## Contributions
+
+Contributions, improvements, and suggestions are welcome.
+
+If you'd like to add features, improve the project, or fix issues, feel free to fork the repository and submit a pull request.
+
+## Future Scope
 
 - React frontend
 - Node.js backend
-- Authentication
+- Authentication system
 - Admin dashboard
+- Online appointment booking
+- AI-based healthcare assistance
 
 ## Author
 
