@@ -174,7 +174,7 @@ ALTER TABLE `MedicalHistory`
   ADD KEY `patient_id` (`patient_id`);
 
 --
--- Indexes for table `Patient`
+-- Indexes for table `Patient` 
 --
 ALTER TABLE `Patient`
   ADD PRIMARY KEY (`patient_id`);
